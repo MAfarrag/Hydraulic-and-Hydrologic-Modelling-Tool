@@ -1,0 +1,7 @@
+Input file for Backwater calc
+50 b
+3 ho
+1000 dx
+50 Q {discharge}
+45 C
+0.001 I {slope}

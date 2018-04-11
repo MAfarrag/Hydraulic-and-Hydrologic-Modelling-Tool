@@ -1,0 +1,5 @@
+#Left Boundary conditions
+Q
+hours
+0 150
+24 150

@@ -1,0 +1,21 @@
+# steady
+#geometry
+500 - length of the channel
+100  - width of the channel
+100000000 - chezy coefficient
+9.81 - gravity acceleration
+0 - slope
+#Numerical parameters
+20 - deltax
+50 - deltat
+0.8 - theta
+0.5 - epsi
+10 - max no of iterations
+5 - hours of max 
+#IC & BC
+Qhinitialsteady.txt
+LBCsteady.txt
+RBCsteady.txt
+#results file
+Qoutsteady.txt
+houtsteady.txt

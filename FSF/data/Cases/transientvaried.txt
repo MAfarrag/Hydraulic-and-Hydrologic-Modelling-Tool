@@ -1,0 +1,21 @@
+#Transient varied depth
+#geometry
+2500 - length of the channel
+100  - width of the channel
+100000000 - chezy coefficient
+9.81 - gravity acceleration
+0 - slope
+#Numerical parameters
+50 - deltax
+10 - deltat
+0.55 - theta
+0.5 - epsi
+10 - max no of iterations
+2 - hours of max 
+#IC & BC
+Qhinitialvaried.txt
+LBCvaried.txt
+RBCvaried.txt
+#results file
+Qoutvaried.txt
+houtvaried.txt

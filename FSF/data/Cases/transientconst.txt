@@ -1,0 +1,21 @@
+#Transient const depth
+#geometry
+2500 - length of the channel
+100  - width of the channel
+100000000 - chezy coefficient
+9.81 - gravity acceleration
+0 - slope
+#Numerical parameters
+50 - deltax
+10 - deltat
+1 - theta
+0.5 - epsi
+10 - max no of iterations
+5 - hours of max 
+#IC & BC
+Qhinitialconst.txt
+LBCconst.txt
+RBCconst.txt
+#results file
+Qoutconst.txt
+houtconst.txt

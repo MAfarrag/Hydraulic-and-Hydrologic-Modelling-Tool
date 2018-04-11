@@ -1,0 +1,7 @@
+#Left Boundary conditions
+h
+hours
+0 12
+1 13
+2 12
+24 12
